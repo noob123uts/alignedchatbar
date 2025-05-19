@@ -1,9 +1,9 @@
 /**
  * @name Refreshed Seamless Chat Bar
- * @author NSPG911
+ * @author urmom
  * @version 1.1.0
  * @description Moves around elements near the Chat Bar to be seamless with the message bar
- * @source https://nspc911.github.io/themes/vencord/RefreshedSeamlessChatBar.theme.css
+ * @source https://github.com/noob123uts/alignedchatbar/blob/main/chatbar
 */
 
 :root {
@@ -14,7 +14,7 @@
   --rscb-no-jump-chat: 0;
   /* Whether you want the messages to clip through *\
   \*  the gap between slowmode and typing people   */
-  --rscb-clip-chat-through-typing-bar: 0;
+  --rscb-clip-chat-through-typing-bar: 2;
 }
 
 .visual-refresh .form_f75fb0 {
