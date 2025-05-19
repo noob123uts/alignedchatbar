@@ -8,7 +8,7 @@
 
 :root {
   /* Custom padding for the chat box */
-  --rscb-chat-box-padding: 8px;
+  --rscb-chat-box-padding: 4px;
   /* Whether you want the chat to not move up *\
   \*    and down when someone starts typing   */
   --rscb-no-jump-chat: 0;
